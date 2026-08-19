@@ -13,23 +13,25 @@ This activity introduces the basics of cloud computing using **KillerCoda**. It 
 - Create a GitHub repository.
 - Document activities using Markdown.
 
-## Requirements
+# Checkpoint 1 – Entering the Cloud
 
-- Computer or Laptop
-- Internet Connection
-- Web Browser
-- GitHub Account
-- KillerCoda Account
+For this checkpoint, I accessed the Ubuntu Linux environment using KillerCoda. I created a new Linux user account named apadapat, set up its Bash shell and home directory, and granted it sudo privileges. I also used basic Linux commands to verify my username, current directory, and hostname.
 
-## Activities
+### User Information
 
-1. Accessed the Linux environment.
-2. Used basic Linux commands.
-3. Created files and directories.
-4. Checked system information.
-5. Created a GitHub repository.
-6. Documented the completed tasks.
+| Information | Result |
+|---|---|
+| Current Username | apadapat |
+| Current Working Directory | /home/apadapat |
+| Hostname | [Your Hostname] |
 
-## Skills Learned
+### Commands Used
 
-I learned how to use Linux, manage files, check system information, and document my work using GitHub and Markdown.
+```bash
+sudo adduser apadapat
+sudo usermod -aG sudo apadapat
+su - apadapat
+
+whoami
+pwd
+hostname
