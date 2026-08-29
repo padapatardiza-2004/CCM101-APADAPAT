@@ -73,11 +73,9 @@ configfs     on  /sys/kernel/config        type  configfs     (rw,nosuid,nodev,n
 binfmt_misc  on  /proc/sys/fs/binfmt_misc  type  binfmt_misc  (rw,nosuid,nodev,noexec,relatime)
 ```
 ## Hostname
-
-| Item     | Result   |
-| -------- | -------- |
-| Hostname | `ubuntu` |
-
+```
+ubuntu
+```
 ## IP Address
 
 | Network Address | IP Address   |
