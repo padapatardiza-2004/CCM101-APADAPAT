@@ -28,9 +28,7 @@ Model name: Intel Xeon E312xx (Sandy Bridge, IBRS update)
 ```
 ## Number of CPU Cores
 ```
-| Item      | Result |
-| --------- | ------ |
-| CPU Cores | `1`    |
+1
 ```
 ## Total RAM
 ```
