@@ -18,7 +18,7 @@ This command reads the `os-release` file, which contains identifying information
 
 ### Terminal Evidence 1 – OS Details
 
-![KillerCoda Terminal 1 - OS Details](screenshots/killercoda-terminal-1.png)
+![KillerCoda Terminal 1 - OS Details](screenshots/killercoda-terminal1.png)
 
 ---
 
@@ -34,7 +34,7 @@ The output provides technical information about the CPU, such as the processor a
 
 ### Terminal Evidence 2 – CPU Details
 
-![KillerCoda Terminal 2 - CPU Details](screenshots/killercoda-terminal-2.png)
+![KillerCoda Terminal 2 - CPU Details](screenshots/killercoda-terminal2.png)
 
 ---
 
@@ -50,7 +50,7 @@ The `-h` option presents the memory values in an easier-to-read format. The resu
 
 ### Terminal Evidence 3 – Memory Details
 
-![KillerCoda Terminal 3 - Memory Details](screenshots/killercoda-terminal-3.png)
+![KillerCoda Terminal 3 - Memory Details](screenshots/killercoda-terminal3.png)
 
 ---
 
@@ -66,7 +66,7 @@ This command reports information about the mounted file systems, including their
 
 ### Terminal Evidence 4 – Disk Details
 
-![KillerCoda Terminal 4 - Disk Details](screenshots/killercoda-terminal-4.png)
+![KillerCoda Terminal 4 - Disk Details](screenshots/killercoda-terminal4.png)
 
 ---
 
