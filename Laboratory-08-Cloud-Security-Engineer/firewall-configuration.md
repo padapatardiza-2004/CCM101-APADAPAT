@@ -1,6 +1,6 @@
 # Firewall Configuration
 
-## Permit SSH Connections
+##  SSH Connections
 
 Command used:
 
